@@ -1,9 +1,8 @@
 the rainbow
-
 green
 red
 blue
 orange
-
 pink
 yellow
+The End
