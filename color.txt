@@ -1,4 +1,4 @@
-the rainbow
+the rainbow and food
 green
 red
 blue
@@ -6,3 +6,7 @@ orange
 pink
 yellow
 The End
+
+The food is here
+beef
+ice cream
